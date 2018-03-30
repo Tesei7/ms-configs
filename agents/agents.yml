@@ -1,1 +1,4 @@
-tesei7.agents.greeting: Hello, user!
+tesei7:
+  agents:
+    greeting: Hello, user!
+    password: "{cipher}aa3fc2b303d6851e3b1b555514965a6faa7370b3f3be0cb4224708f94052f7a0"
